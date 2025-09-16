@@ -113,7 +113,7 @@ void PrintAllClientsDataForTransactionMenu(vector <sClient> vClients) {
 	cout << "\n_________________________________________________________________________________\n";
 
 	 
-	cout << "\t\t\t\t\t\t Total Balances = " << sum << "$ " << endl;
+	cout << "\t\t\t\t\t\t Total Balances = " << sum << "$" << endl;
 }
 
 
@@ -999,3 +999,4 @@ int main()
 	system("pause>0");
 
 }
+
